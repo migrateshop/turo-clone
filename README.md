@@ -11,6 +11,8 @@ A Turo clone is a customizable car rental platform that has the exact core featu
 
 The key advantage of using a Turo clone is reducing the development cost and time also allowing you to concentrate on building your brand and expanding your business.
 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“turoclonescript.png" src="https://github.com/migrateshop/turo-clone/blob/main/images/turo-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 ## Features to look for in a Turo Clone
 While selecting a [Turo clone script](https://migrateshop.com/turo-clone/), it's essential to consider the features that will provide a seamless and user-friendly experience for both renters and car owners.
 Let's have a look at,
@@ -38,6 +40,8 @@ CarTrek offers a complete car rental service that includes all the tools you req
 **3. Carpooling**
 
 RideShare prioritizes the user experience by providing a simple interface and intuitive functionalities. Strong safety features like insurance integration and driver verification are part of it.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“turoclonescript.png" src="https://github.com/migrateshop/turo-clone/blob/main/images/turo-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ### Conclusion
 In the rapidly evolving sharing economy, [Migrateshop’s](https://migrateshop.com/) [Turo clone](https://migrateshop.com/turo-clone/) presents a golden opportunity to capitalize on the growing demand for peer-to-peer car rentals. By choosing the right solution, you can quickly establish your presence in the market, attract a wide range of users, and provide a seamless car rental experience. Whether you're a startup or an established business, a Turo clone can accelerate your growth and help you achieve your business goals, making it an investment worth considering.
